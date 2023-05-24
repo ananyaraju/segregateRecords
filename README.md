@@ -11,6 +11,7 @@ Clearly, this visualization leads to improper and inaccurate data representation
 <br><br>
 The correct way to visualize this would be to seperate every element in the "Type" array as a different entry in csv, leading to explosion of data within the csv.
 After running the <a href="https://github.com/ananyaraju/segregateRecords/blob/main/segregateType.ipynb">segregateType.ipynb</a> program and generating a new csv [<a href="https://github.com/ananyaraju/segregateRecords/blob/main/final.csv">final.csv</a>] with exploded data, the pie chart visualization of the csv is as follows:
+<br><br>
 <div align="center">
   <img src="https://github.com/ananyaraju/segregateRecords/blob/main/visualisations/correctVisualization.png" height="350" />
 </div>
