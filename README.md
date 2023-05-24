@@ -14,3 +14,4 @@ After running the <a href="https://github.com/ananyaraju/segregateRecords/blob/m
 <div align="center">
   <img src="https://github.com/ananyaraju/segregateRecords/blob/main/visualisations/correctVisualization.png" height="350" />
 </div>
+<br>
